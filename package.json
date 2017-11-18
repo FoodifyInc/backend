@@ -1,0 +1,19 @@
+{
+  "name": "foodify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoodifyInc/backend.git"
+  },
+  "author": "FoodifyInc",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FoodifyInc/backend/issues"
+  },
+  "homepage": "https://github.com/FoodifyInc/backend#readme"
+}
